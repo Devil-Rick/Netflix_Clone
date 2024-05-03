@@ -1,8 +1,59 @@
-# React + Vite
+# Clone of Netflix
+Welcome to my Netflix! This project showcases my React, ESLint, Tailwind, and Vite skills. Feel free to explore and connect with me!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+<!--   <br>
+  <img src="https://i.imgur.com/YjFLrzx.png" alt="wb" width="400">
+  <br> -->
+</p>
+<p align="center" >
+  <a href="#features">Features</a> •
+  <a href="#Files">Files</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#packages">Packages</a>   
+</p>
+<p align="center" >
+<a href="https://whosbl33h.netlify.app/">Try it out here</a> 
+</p>
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Vite
+```bash
+# Install dependencies
+$ npm i
+# run the app
+$ npm run dev
+```
+
+## Files
+
+- src: the file that implements de solution.
+- assets: resources that are used in an application.
+- components: reusable pieces of code that define the appearance and behaviour of a part of the UI.
+- pages: the different areas of the portfolio.
+- data: values that the program cannot alter during normal execution.
+
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en) and [Vite](https://vitejs.dev/) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/bl33h/whosbl33h
+
+# Install dependencies
+$ npm i
+
+# Run the app
+$ npm run dev
+```
+
+## Packages
+
+This software uses the following open-source packages:
+
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
